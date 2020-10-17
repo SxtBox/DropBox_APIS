@@ -4,6 +4,9 @@ DropBox Streaming Multi APIs
 # Hosted API
 https://paidcodes.albdroid.al/DropBox_APIS
 
+# Example Links
+https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
+
 # PLAYERS
     Clappr Player Simple/PRO
     Clappr Player Embed Simple/Pro
