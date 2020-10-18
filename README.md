@@ -25,3 +25,7 @@ https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
     VLC MP4
 
     JSON Simple
+
+# Proxy
+    All PHP Contain Callback Proxy to GET Streams by ID
+    All credits for Proxy are for Afeld (https://github.com/afeld)
