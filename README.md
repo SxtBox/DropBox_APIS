@@ -8,22 +8,13 @@ https://paidcodes.albdroid.al/DropBox_APIS
 https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
 
 # PLAYERS
-    Clappr Player Simple/PRO
-    Clappr Player Embed Simple/Pro
-
-    HTML5 Player
-    HTML5 Player Embed
-
-    JW Player Flexible
-    JW Player Flexible Embed
+    Clappr Player Simple/PRO/Embed
+    HTML5 Player/Embed
+    JW Player Flexible/Embed
 
 # GET DATA
-    Xtream Codes HLS
-    Xtream Codes MP4
-
-    VLC HLS
-    VLC MP4
-
+    Xtream Codes HLS/MP4
+    VLC HLS/MP4
     JSON Simple
 
 # Proxy
