@@ -23,7 +23,9 @@ https://paidcodes.albdroid.al/DropBox_APIS/Changelog
     Smart TV HLS/MP4
     
 # Smart TV Player
-    Example TV List https://paidcodes.albdroid.al/DropBox_APIS/Smart_TV/
+    Example TV Lists
+    MP4 Multi https://paidcodes.albdroid.al/DropBox_APIS/Smart_TV
+    HLS Single https://paidcodes.albdroid.al/DropBox_APIS/Smart_TV/HLS_Test
     Status: Unfinished Yet
 
 # Proxy
