@@ -7,6 +7,9 @@ https://paidcodes.albdroid.al/DropBox_APIS
 # Example Links
 https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
 
+# Changelog
+https://paidcodes.albdroid.al/DropBox_APIS/Changelog
+
 # PLAYERS
     Clappr Player Simple/PRO/Embed
     HTML5 Player/Embed
