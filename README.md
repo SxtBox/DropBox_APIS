@@ -20,6 +20,10 @@ https://paidcodes.albdroid.al/DropBox_APIS/Changelog
     VLC HLS/MP4
     JSON Simple
     Kodi Player HLS/MP4
+    
+# Smart TV Player
+    Example TV List https://paidcodes.albdroid.al/DropBox_APIS/Smart_TV/
+    Status: Unfinished Yet
 
 # Proxy
     All PHP Contain Callback Proxy to GET Streams by ID
