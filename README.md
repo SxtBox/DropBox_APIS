@@ -20,6 +20,7 @@ https://paidcodes.albdroid.al/DropBox_APIS/Changelog
     VLC HLS/MP4
     JSON Simple
     Kodi Player HLS/MP4
+    Smart TV HLS/MP4
     
 # Smart TV Player
     Example TV List https://paidcodes.albdroid.al/DropBox_APIS/Smart_TV/
