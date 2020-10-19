@@ -10,12 +10,12 @@ https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
 # Changelog
 https://paidcodes.albdroid.al/DropBox_APIS/Changelog
 
-# PLAYERS
+# WEB PLAYERS
     Clappr Player Simple/PRO/Embed
     HTML5 Player/Embed
     JW Player Flexible/Embed
 
-# GET DATA
+# GET STREAMIG DATA
     Xtream Codes HLS/MP4
     VLC HLS/MP4
     JSON Simple
