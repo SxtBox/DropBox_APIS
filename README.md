@@ -16,6 +16,7 @@ https://paidcodes.albdroid.al/DropBox_APIS/Example_Links
     Xtream Codes HLS/MP4
     VLC HLS/MP4
     JSON Simple
+    Kodi Player HLS/MP4
 
 # Proxy
     All PHP Contain Callback Proxy to GET Streams by ID
