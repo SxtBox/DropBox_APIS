@@ -30,4 +30,7 @@ https://paidcodes.albdroid.al/DropBox_APIS/Changelog
 
 # Proxy
     All PHP Contain Callback Proxy to GET Streams by ID
-    All credits for Proxy are for Afeld (https://github.com/afeld)
+
+# NEWS
+    remote proxy was removed because the person who had it limited it
+    replaced with my php proxy
